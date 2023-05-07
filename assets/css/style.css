@@ -1,0 +1,18 @@
+.panda-bg-info {
+    background-color: #feeae9;
+}
+
+.cantagorises img {
+    width: 100px;
+}
+
+.panda-button-buynow {
+    color: deeppink;
+    background-color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    border: 5px;
+    text-decoration: uppercase;
+    padding: 5px 10px;
+
+}
